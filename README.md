@@ -1,5 +1,6 @@
-# counterJS-project
+# CounterJS-project
 This is the simple counter Project in which there are there three Buttons increament, decreament and neutral.
+This concept can be used to know the number of users visited on the website on clicking the link and for many other purpose.
 
 Increament- On clicking this every counter value will increase by one.
 
