@@ -1,0 +1,30 @@
+body{
+    /*background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);*/
+    background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #8989ba 100%);
+}
+h1{
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+
+.col-md-6{
+    border: 7px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 150px !important;
+}
+
+/*  Buttons section */
+button{
+    margin: 20px !important;
+    /*border: 2px solid rgb(48, 45, 45) !important;*/
+}
+#btn1{
+    border: 3px solid green;
+}
+#btn2{
+    border: 3px solid rgb(122, 21, 21);
+}
+#btn3{
+    border: 3px solid blue;
+}
